@@ -77,7 +77,7 @@ def empty_spaces():
 
 # Create the main game window
 window = Tk()
-window.title("Girls Tic-Tac_Toe")
+window.title("Girls Tic-Tac-Toe")
 window.configure(bg="#FF69B4") 
 players = ["X", "O"]
 player = random.choice(players)
